@@ -1,1 +1,5 @@
-Origin: https://helpdesk.oxid-esales.com/otrs/index.pl?Action=AgentTicketZoom;TicketID=44606#238380 (#1247751)
+--- About
+------ Was kann das Modul, ein Satz.
+------ Generelle Infos über das Modul.
+--- Install
+------ Composer Befehl, um das Modul über Packagist zu installieren.
