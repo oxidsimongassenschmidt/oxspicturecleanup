@@ -11,5 +11,5 @@ The module was developed to save server space.
 composer require oxid-support/picturecleanup
 activate modul
 
-## Usage
+
 
