@@ -12,8 +12,7 @@
   ],
   "homepage": "https://www.oxid-esales.com/en/home.html",
   "license": [
-    "GPL-3.0-only",
-    "proprietary"
+    "GPL-3.0-only"
   ],
   "extra": {
     "oxideshop": {
