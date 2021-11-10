@@ -8,8 +8,9 @@ The module was developed to save server space.
 
 ## Install
 
-composer require oxid-support/picturecleanup
-activate modul
+1. composer require oxid-support/picturecleanup
+
+2. activate modul
 
 
 
