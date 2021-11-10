@@ -1,10 +1,10 @@
 <?php
-namespace OxidSupport\OxsPictureCleanup\Controllers\Admin;
+namespace OxidSupport\PictureCleanup\Controllers\Admin;
 
 use OxidEsales\Eshop\Application\Model\Article;
 use OxidEsales\Eshop\Core\PictureHandler;
 
-class oxsArticlePicture extends oxsArticlePicture_parent
+class ArticlePicture extends ArticlePicture_parent
 {
     /**
      * Saves (uploads) pictures to server.

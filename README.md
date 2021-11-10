@@ -1,14 +1,14 @@
---- 
-About
+## About
 
------- 
-Das Modul verhindert, dass bei dem Hochladen eines Bildes mit dem gleichen Namen, eine Kopie des alten Bildes auf dem Server verbleibt. Dieses wird nun gelöscht.
+The module prevents that when uploading an image with the same name, a copy of the old image remains on the server. This will now be deleted.
 
------- 
-Das Modul wurde entwickelt, um Speicherplatz des Servers zu schonen.
 
---- 
-Install
+The module was developed to save server space.
 
------- 
+
+## Install
+
 [to come]
+
+## Usage
+

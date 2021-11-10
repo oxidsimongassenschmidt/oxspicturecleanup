@@ -1,9 +1,15 @@
 {
-  "name": "oxid-support/oxspicturecleanup",
-  "description": "OXID-Support Clean up Pictures",
+  "name": "oxid-support/picturecleanup",
+  "description": "OXID Support Remove Duplicate Picture",
   "type": "oxideshop-module",
   "version": "1.0.0",
   "keywords": ["oxid", "modules", "eShop"],
+  "authors": [
+    {
+      "name": "OXID Support",
+      "email": "support@oxid-esales.com"
+    }
+  ],
   "homepage": "https://www.oxid-esales.com/en/home.html",
   "license": [
     "GPL-3.0-only",
@@ -19,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OxidSupport\\OxsPictureCleanup\\": "../../../source/modules/oxs/oxspicturecleanup"
+      "OxidSupport\\PictureCleanup\\": "../../../source/modules/oxs/oxspicturecleanup"
     }
   }
 }
